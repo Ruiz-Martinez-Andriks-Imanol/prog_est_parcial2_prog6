@@ -13,7 +13,6 @@ Muestra el uso de:
     <li>El uso de include para las librerías</li>
     <li>Uso de condicionales</li>
     <li>Operadores lógicos</li>
-    <li>System PAUSE</li>
     <li>Comentarios para la documentación interna del programa</li>
     </ul>
     </p>
