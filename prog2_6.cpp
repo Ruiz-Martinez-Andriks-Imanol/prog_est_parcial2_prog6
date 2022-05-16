@@ -17,10 +17,11 @@ Muestra el uso de:
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
+	//Proceso
 	printf("----CODIGO ASCII----\n");
-	for(unsigned char c=0;c<=255;c++){
+	for(unsigned char c=0;c<=255;c++){ //Ciclo
 		printf("%d-> [%c]\n",c,c);
-		if (c%10==0 && c>0){
+		if (c%10==0 && c>0){ //Condcional
 			system("PAUSE");
 		}
 	}
