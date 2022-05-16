@@ -1,19 +1,18 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 31/03/2022
-Escuela: Universidad del Valle de M閤ico Campus Villahermosa
-Materia: Programaci髇 Estructurada
+/* Autor: Andriks Imanol Ruiz M谩rtinez, Realizado: 31/03/2022
+Escuela: Universidad del Valle de M茅xico Campus Villahermosa
+Materia: Programaci贸n Estructurada
 Ciclo: 01/2022
 
-Este es un programa de ciclos y condicionales en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de ciclos y condicionales en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
 
     -Variables en cadena
     -printf para mostrar mensajes y variables
     -scanf
-    -El uso de include para las librer韆s
+    -El uso de include para las librer铆as
     -Uso de condicionales
-    -Operadores l骻icos
-    -System PAUSE
-    -Comentarios para la documentaci髇 interna del programa
+    -Operadores l贸gicos
+    -Comentarios para la documentaci贸n interna del programa
 */
 #include<stdio.h>
 #include<stdlib.h>
