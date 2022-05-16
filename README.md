@@ -17,7 +17,7 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-<b>Objetivo:</b>Aprender los carácteresa que conforman el Código ASCII en programación.
+<b>Objetivo:</b>Aprender los carácteres que conforman el Código ASCII en programación.
 <br>
 <br>
 <p><b>Breve descripción: </b>
