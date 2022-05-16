@@ -22,7 +22,7 @@ Muestra el uso de:
 <br>
 <br>
 <p><b>Breve descripción: </b>
-Se trata de un programa que imprima todos los códigos ASCII de 10 en 10. Se usará las librerías  para realizarse. Usaremos un ciclo for donde contendrá un (unsigned char c=0; c<=255; c++), el 255 indicando la cantidad de codigo ASCII que hay para imprimir. El printf deberá de enlistará los carácteres e imprimirá un código de ASCII.
+Se trata de un programa que imprima todos los códigos ASCII de 10 en 10. Se usará las librerías  para realizarse. Usaremos un ciclo for donde contendrá un unsigned char c=0; c<=255; c++, el 255 indicando la cantidad de codigo ASCII que hay para imprimir. El printf deberá de enlistará los carácteres e imprimirá un código de ASCII.
 <br>
 </p>
 
